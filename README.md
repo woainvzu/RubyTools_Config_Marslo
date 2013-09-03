@@ -8,6 +8,12 @@ The configuration about ruby and tools
 
 # Pry
 
+## Installation:
+- pry:
+       <pre><code>gem install pry</code></pre>
+- pry-theme:
+       <pre><code>gem install pry-theme</code></pre>
+
 ## Usage
 - Windows:
     - Copy `.pryrc` and `.pry` from `RubyTools_Config_Marslo\pry` to `%USERPROFILE%`
