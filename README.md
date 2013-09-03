@@ -1,9 +1,7 @@
 RubyTools_Config_Marslo
 =======================
 
-The configuration about ruby and tools
-
-=======================
+The configuration about ruby and tools  
        Author: Marslo  
         Email: marslo.vida@gmail.com  
    LastChange: 2013-09-03 22:03:02  
